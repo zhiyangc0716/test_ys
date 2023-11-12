@@ -1,0 +1,2 @@
+instrumentid, exchangeid, productid, underlyinginstrid, exchangeinstid, 		instrumentname, createdate, opendate, expiredate, productclass, optionstype, positiontype, 		displayfactor, pricetick, volumemultiple, upperlimitprice, lowerlimitprice
+bc2103, INE, BC, , BC|2103|, , , , 20210331, 1, 0, 0, 0.000000, 10.000000, 5, 0.000000, 0.000000
